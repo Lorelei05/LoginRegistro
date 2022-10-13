@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right, #9d1882, #420252 );
+}
+#login{
+    width: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.378);
+    border-radius: 40 px;
+    margin: 0 auto;
+    padding: 30px;
+    background:  rgb(255, 255, 255);
+    opacity: .8;
+    box-shadow: 10px 10px 10px 0px rgba(0,0,.5);
+    
+}
